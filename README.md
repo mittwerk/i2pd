@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/PurpleI2P/i2pd.svg?label=latest%20release)](https://github.com/PurpleI2P/i2pd/releases/latest)
+123[![GitHub release](https://img.shields.io/github/release/PurpleI2P/i2pd.svg?label=latest%20release)](https://github.com/PurpleI2P/i2pd/releases/latest)
 [![Snapcraft release](https://snapcraft.io/i2pd/badge.svg)](https://snapcraft.io/i2pd)
 [![License](https://img.shields.io/github/license/PurpleI2P/i2pd.svg)](https://github.com/PurpleI2P/i2pd/blob/openssl/LICENSE)
 [![Packaging status](https://repology.org/badge/tiny-repos/i2pd.svg)](https://repology.org/project/i2pd/versions)
